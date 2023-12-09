@@ -1,0 +1,12 @@
+<mvc:View controllerName="Sample.Quickstart.controller.View1" xmlns:mvc="sap.ui.core.mvc" displayBlock="true" xmlns="sap.m">
+		<App id="app">
+			<pages>
+				<Page id="page" title="{i18n>title}" titleAlignment="Center">
+					<content>
+						<Text text="Page under construction.Stay tuned!"/>
+					</content>
+				</Page>
+			</pages>
+		</App>
+
+</mvc:View>
